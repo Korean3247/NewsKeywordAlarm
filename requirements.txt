@@ -1,0 +1,4 @@
+git+https://github.com/psf/requests
+git+https://github.com/wention/BeautifulSoup4
+git+https://github.com/DrKLO/Telegram
+git+https://github.com/agronholm/apscheduler
